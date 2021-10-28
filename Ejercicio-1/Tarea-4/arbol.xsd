@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<xs:schema xmlns="http://tempuri.org/arbol" elementFormDefault="qualified" targetNamespace="http://tempuri.org/arbol" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="arbol">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element minOccurs="1" maxOccurs="unbounded" ref="persona" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="persona">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="datos" />
+				<xs:element minOccurs="0" maxOccurs="1" ref="persona" />
+				<xs:element minOccurs="0" maxOccurs="1" ref="persona" />
+			</xs:sequence>
+			<xs:attribute name="nombre" type="xs:string" use="required" />
+			<xs:attribute name="apellidos" type="xs:string" use="required" />
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="datos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="datosNacimiento" />
+				<xs:element minOccurs="0" maxOccurs="1" ref="datosFallecimiento" />
+				<xs:element ref="fotografias" />
+				<xs:element minOccurs="0" maxOccurs="1" ref="videos" />
+				<xs:element ref="comentarios" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="datosNacimiento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="fechaNacimiento" />
+				<xs:element ref="lugarNacimiento" />
+				<xs:element ref="coordenadasNacimiento" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="fechaNacimiento" type="xs:string" />
+	<xs:element name="lugarNacimiento" type="xs:string" />
+	<xs:element name="coordenadasNacimiento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="longitud" />
+				<xs:element ref="latitud" />
+				<xs:element ref="altitud" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="longitud" type="xs:string" />
+	<xs:element name="latitud" type="xs:string" />
+	<xs:element name="altitud" type="xs:string" />
+	<xs:element name="datosFallecimiento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="fechaFallecimiento" />
+				<xs:element ref="lugarFallecimiento" />
+				<xs:element ref="coordenadasFallecimiento" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="fechaFallecimiento" type="xs:string" />
+	<xs:element name="lugarFallecimiento" type="xs:string" />
+	<xs:element name="coordenadasFallecimiento">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="longitud" />
+				<xs:element ref="latitud" />
+				<xs:element ref="altitud" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="fotografias">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element minOccurs="1" maxOccurs="unbounded" ref="foto" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="foto" type="xs:string" />
+	<xs:element name="videos">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element minOccurs="1" maxOccurs="unbounded" ref="video" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="video" type="xs:string" />
+	<xs:element name="comentarios">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element minOccurs="1" maxOccurs="unbounded" ref="comentario" />
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="comentario" type="xs:string" />
+</xs:schema>

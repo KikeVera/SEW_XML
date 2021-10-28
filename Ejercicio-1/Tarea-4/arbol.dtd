@@ -1,0 +1,31 @@
+<!ELEMENT arbol (persona+)>
+<!ELEMENT persona (datos,persona?,persona?)>
+<!ELEMENT datos (datosNacimiento,datosFallecimiento?,fotografias,videos?,comentarios)>
+
+<!ELEMENT datosNacimiento (fechaNacimiento,lugarNacimiento,coordenadasNacimiento)>
+<!ELEMENT fechaNacimiento (#PCDATA)>
+<!ELEMENT lugarNacimiento (#PCDATA)>
+<!ELEMENT coordenadasNacimiento (longitud,latitud,altitud)>
+
+<!ELEMENT longitud (#PCDATA)>
+<!ELEMENT latitud (#PCDATA)>
+<!ELEMENT altitud (#PCDATA)>
+
+<!ELEMENT datosFallecimiento (fechaFallecimiento,lugarFallecimiento,coordenadasFallecimiento)>
+<!ELEMENT fechaFallecimiento (#PCDATA)>
+<!ELEMENT lugarFallecimiento (#PCDATA)>
+<!ELEMENT coordenadasFallecimiento (longitud,latitud,altitud)>
+
+<!ELEMENT fotografias (foto+)>
+<!ELEMENT foto (#PCDATA)>
+
+<!ELEMENT videos (video+)>
+<!ELEMENT video (#PCDATA)>
+
+<!ELEMENT comentarios (comentario+)>
+<!ELEMENT comentario (#PCDATA)>
+
+
+<!ATTLIST persona nombre CDATA #REQUIRED>
+<!ATTLIST persona apellidos CDATA #REQUIRED>
+

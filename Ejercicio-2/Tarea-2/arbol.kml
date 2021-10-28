@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+<Placemark>
+<name> Nacimiento: Enrique Vera Cueto</name>
+<description>Aquí nacio: Enrique Vera Cueto</description>
+<Point>
+<coordinates>-5.873420193275075,43.341920421217154,232</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Pablo Vera de la Puente</name>
+<description>Aquí nacio: Pablo Vera de la Puente</description>
+<Point>
+<coordinates>-5.874420193275075,43.341920421217154,232</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Enrique Vera González</name>
+<description>Aquí nacio: Enrique Vera González</description>
+<Point>
+<coordinates>-3.716286,42.284055,872</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Enrique Vera González</name>
+<description>Aquí falleció: Enrique Vera González</description>
+<Point>
+<coordinates>-5.879365,43.311533,165</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Enrique Vera Sancha</name>
+<description>Aquí nacio: Enrique Vera Sancha</description>
+<Point>
+<coordinates>-3.765112,42.097845,907</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Enrique Vera Sancha</name>
+<description>Aquí falleció: Enrique Vera Sancha</description>
+<Point>
+<coordinates>-3.787987,41.992695,912</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Clotilde González Vera</name>
+<description>Aquí nacio: Clotilde González Vera</description>
+<Point>
+<coordinates>-3.485646,43.364921,33</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Clotilde González Vera</name>
+<description>Aquí falleció: Clotilde González Vera</description>
+<Point>
+<coordinates>-3.787987,41.992695,912</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Carmen de la Puente de la Puente</name>
+<description>Aquí nacio: Carmen de la Puente de la Puente</description>
+<Point>
+<coordinates>-3.716292,42.284062,865</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Carmen de la Puente de la Puente</name>
+<description>Aquí falleció: Carmen de la Puente de la Puente</description>
+<Point>
+<coordinates>-5.879365,43.311533,165</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Luis de la Puente López</name>
+<description>Aquí nacio: Luis de la Puente López</description>
+<Point>
+<coordinates>-3.716298,42.284043,872</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Luis de la Puente López</name>
+<description>Aquí falleció: Luis de la Puente López</description>
+<Point>
+<coordinates>-3.732979,40.348525,620</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Carmen de la Puente Medina</name>
+<description>Aquí nacio: Carmen de la Puente Medina</description>
+<Point>
+<coordinates>-3.337606,42.548809,751</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Carmen de la Puente Medina</name>
+<description>Aquí falleció: Carmen de la Puente Medina</description>
+<Point>
+<coordinates>-3.732979,40.348525,620</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: María Cueto Sánchez</name>
+<description>Aquí nacio: María Cueto Sánchez</description>
+<Point>
+<coordinates>-5.873520193275075,43.241920421217154,232</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Jose Luis Cueto Fernández</name>
+<description>Aquí nacio: Jose Luis Cueto Fernández</description>
+<Point>
+<coordinates>-5.173368,43.382490,89</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Jose Luis Cueto Fernández</name>
+<description>Aquí falleció: Jose Luis Cueto Fernández</description>
+<Point>
+<coordinates>-5.870055,43.354016,280</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Manuel Cueto Arias</name>
+<description>Aquí nacio: Manuel Cueto Arias</description>
+<Point>
+<coordinates>-5.180138,43.375815,36</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Manuel Cueto Arias</name>
+<description>Aquí falleció: Manuel Cueto Arias</description>
+<Point>
+<coordinates>-5.178672,43.376511,92</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Remedios Fernández Onís</name>
+<description>Aquí nacio: Remedios Fernández Onís</description>
+<Point>
+<coordinates>-5.137427,43.336599,89</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Remedios Fernández Onís</name>
+<description>Aquí falleció: Remedios Fernández Onís</description>
+<Point>
+<coordinates>-5.179015,43.379211,89</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Francisca Sánchez Iglesias</name>
+<description>Aquí nacio: Francisca Sánchez Iglesias</description>
+<Point>
+<coordinates>-5.178289,43.379628,94</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Francisca Sánchez Iglesias</name>
+<description>Aquí falleció: Francisca Sánchez Iglesias</description>
+<Point>
+<coordinates>-5.819436,43.391479,155</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Ramón Sánchez García</name>
+<description>Aquí nacio: Ramón Sánchez García</description>
+<Point>
+<coordinates>-5.063423,43.453992,10</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Ramón Sánchez García</name>
+<description>Aquí falleció: Ramón Sánchez García</description>
+<Point>
+<coordinates>-5.180984,43.381821,76</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Nacimiento: Ascensión Iglesias Villar</name>
+<description>Aquí nacio: Ascensión Iglesias Villar</description>
+<Point>
+<coordinates>-5172664,43.37758,35</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+<Placemark>
+<name> Fallecimiento: Ascensión Iglesias Villar</name>
+<description>Aquí falleció: Ascensión Iglesias Villar</description>
+<Point>
+<coordinates>-4.834119,38.774236,81</coordinates>
+</Point>
+<altitudeMode>absoluto</altitudeMode>
+</Placemark>
+</Document>
+</kml>

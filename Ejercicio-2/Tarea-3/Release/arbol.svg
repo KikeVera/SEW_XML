@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="auto" height="auto" style ="overflow: visible " version ="1.1" xmlns ="http://www.w3.org/2000/svg">
+<text x = "16em" y = "1.5em" fill = "black" font-size = "3em">Arbol genealógico </text>
+<ellipse cx = "60em" cy = "10em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="30em" y1="17em" x2 ="60em" y2 ="13em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="90em" y1="17em" x2 ="60em" y2 ="13em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "58em" y = "9.1em" fill = "white" font-size = "1em">Enrique</text>
+<text x = "58em" y = "10.3em" fill = "white" font-size = "1em">Vera</text>
+<text x = "58em" y = "11.5em" fill = "white" font-size = "1em">Cueto</text>
+<ellipse cx = "30em" cy = "20em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="16.666666666666664em" y1="27em" x2 ="30em" y2 ="23em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="43.333333333333336em" y1="27em" x2 ="30em" y2 ="23em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "28em" y = "19.1em" fill = "white" font-size = "1em">Pablo</text>
+<text x = "28em" y = "20.3em" fill = "white" font-size = "1em">Vera </text>
+<text x = "28em" y = "21.5em" fill = "white" font-size = "1em">de la Puente </text>
+<ellipse cx = "16.666666666666664em" cy = "30em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="9.166666666666664em" y1="37em" x2 ="16.666666666666664em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="24.166666666666664em" y1="37em" x2 ="16.666666666666664em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "14.666666666666664em" y = "29.1em" fill = "white" font-size = "1em">Enrique</text>
+<text x = "14.666666666666664em" y = "30.3em" fill = "white" font-size = "1em">Vera</text>
+<text x = "14.666666666666664em" y = "31.5em" fill = "white" font-size = "1em">González</text>
+<ellipse cx = "9.166666666666664em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "7.166666666666664em" y = "39.1em" fill = "white" font-size = "1em">Enrique</text>
+<text x = "7.166666666666664em" y = "40.3em" fill = "white" font-size = "1em">Vera</text>
+<text x = "7.166666666666664em" y = "41.5em" fill = "white" font-size = "1em">Sancha</text>
+<ellipse cx = "24.166666666666664em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "22.166666666666664em" y = "39.1em" fill = "white" font-size = "1em">Clotilde</text>
+<text x = "22.166666666666664em" y = "40.3em" fill = "white" font-size = "1em">González</text>
+<text x = "22.166666666666664em" y = "41.5em" fill = "white" font-size = "1em">Vera</text>
+<ellipse cx = "43.333333333333336em" cy = "30em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="35.833333333333336em" y1="37em" x2 ="43.333333333333336em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="50.833333333333336em" y1="37em" x2 ="43.333333333333336em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "41.333333333333336em" y = "29.1em" fill = "white" font-size = "1em">Carmen</text>
+<text x = "41.333333333333336em" y = "30.3em" fill = "white" font-size = "1em">de la Puente </text>
+<text x = "41.333333333333336em" y = "31.5em" fill = "white" font-size = "1em">de la Puente </text>
+<ellipse cx = "50.833333333333336em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "48.833333333333336em" y = "39.1em" fill = "white" font-size = "1em">Luis</text>
+<text x = "48.833333333333336em" y = "40.3em" fill = "white" font-size = "1em">de la Puente </text>
+<text x = "48.833333333333336em" y = "41.5em" fill = "white" font-size = "1em">López </text>
+<ellipse cx = "35.833333333333336em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "33.833333333333336em" y = "39.1em" fill = "white" font-size = "1em">Carmen</text>
+<text x = "33.833333333333336em" y = "40.3em" fill = "white" font-size = "1em">de la Puente </text>
+<text x = "33.833333333333336em" y = "41.5em" fill = "white" font-size = "1em">Medina </text>
+<ellipse cx = "90em" cy = "20em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="76.66666666666667em" y1="27em" x2 ="90em" y2 ="23em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="103.33333333333333em" y1="27em" x2 ="90em" y2 ="23em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "88em" y = "19.1em" fill = "white" font-size = "1em">María</text>
+<text x = "88em" y = "20.3em" fill = "white" font-size = "1em">Cueto</text>
+<text x = "88em" y = "21.5em" fill = "white" font-size = "1em">Sánchez</text>
+<ellipse cx = "103.33333333333333em" cy = "30em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="95.83333333333333em" y1="37em" x2 ="103.33333333333333em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="110.83333333333333em" y1="37em" x2 ="103.33333333333333em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "101.33333333333333em" y = "29.1em" fill = "white" font-size = "1em">Jose Luis</text>
+<text x = "101.33333333333333em" y = "30.3em" fill = "white" font-size = "1em">Cueto</text>
+<text x = "101.33333333333333em" y = "31.5em" fill = "white" font-size = "1em">Fernández</text>
+<ellipse cx = "110.83333333333333em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "108.83333333333333em" y = "39.1em" fill = "white" font-size = "1em">Manuel</text>
+<text x = "108.83333333333333em" y = "40.3em" fill = "white" font-size = "1em">Cueto</text>
+<text x = "108.83333333333333em" y = "41.5em" fill = "white" font-size = "1em">Arias</text>
+<ellipse cx = "95.83333333333333em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "93.83333333333333em" y = "39.1em" fill = "white" font-size = "1em">Remedios</text>
+<text x = "93.83333333333333em" y = "40.3em" fill = "white" font-size = "1em">Fernández</text>
+<text x = "93.83333333333333em" y = "41.5em" fill = "white" font-size = "1em">Onís</text>
+<ellipse cx = "76.66666666666667em" cy = "30em" rx = "5em" ry = "3em" fill = "blue" />
+<line x1="69.16666666666667em" y1="37em" x2 ="76.66666666666667em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<line x1="84.16666666666667em" y1="37em" x2 ="76.66666666666667em" y2 ="33em" stroke ="red" stroke-width="0.1em"></line>
+<text x = "74.66666666666667em" y = "29.1em" fill = "white" font-size = "1em">Francisca</text>
+<text x = "74.66666666666667em" y = "30.3em" fill = "white" font-size = "1em">Sánchez</text>
+<text x = "74.66666666666667em" y = "31.5em" fill = "white" font-size = "1em">Iglesias</text>
+<ellipse cx = "69.16666666666667em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "67.16666666666667em" y = "39.1em" fill = "white" font-size = "1em">Ramón</text>
+<text x = "67.16666666666667em" y = "40.3em" fill = "white" font-size = "1em">Sánchez</text>
+<text x = "67.16666666666667em" y = "41.5em" fill = "white" font-size = "1em">García</text>
+<ellipse cx = "84.16666666666667em" cy = "40em" rx = "5em" ry = "3em" fill = "blue" />
+<text x = "82.16666666666667em" y = "39.1em" fill = "white" font-size = "1em">Ascensión</text>
+<text x = "82.16666666666667em" y = "40.3em" fill = "white" font-size = "1em">Iglesias</text>
+<text x = "82.16666666666667em" y = "41.5em" fill = "white" font-size = "1em">Villar</text>
+</svg>
